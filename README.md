@@ -2,7 +2,6 @@
 - 👀 I’m interested in development especially backend with springboot and django.
 - 🌱 I’m currently learning frontend, CSS, JS and React
 - 💞️ I’m looking to collaborate on backend project.
-- 📫 How to reach me 
 - ⚡ Fun fact: I believe, I am here to revolutionize something, don't know what.
 
 <!---
